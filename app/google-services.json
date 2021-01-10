@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731945957773",
+    "project_id": "pushnotifications-aa527",
+    "storage_bucket": "pushnotifications-aa527.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731945957773:android:6f519da7490494e054a5c4",
+        "android_client_info": {
+          "package_name": "com.picaflor.pushnotificationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731945957773-nm69hhoigdhcvvgp3tkloh7igc2j5oqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmsTrSrTyAYm9XKpq33euq9_JeLUqobZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731945957773-nm69hhoigdhcvvgp3tkloh7igc2j5oqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
